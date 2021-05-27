@@ -1,6 +1,6 @@
 # Calvinball
 
-This project calculates the records for each MLB team when playing by Calvinball rules: any extra inning game or seven-inning game. This project is based on the [pybaseball](https://pypi.org/project/pybaseball/) library.
+This project calculates the records for each MLB team when playing by [Calvinball](https://en.wikipedia.org/wiki/Calvin_and_Hobbes#Calvinball) rules: any extra inning game or seven-inning game (hat tip to [Joe Sheehan](http://www.joesheehan.com/) for the Calvinball nomenclature). This project is based on the [pybaseball](https://pypi.org/project/pybaseball/) library. Click on the `calvinball.ipynb` file to load the script.
 
 ## Setup
 

@@ -90,3 +90,24 @@
 [NotebookApp | INFO] Saving file at /calvinball.ipynb
 [NotebookApp | INFO] Saving file at /calvinball.ipynb
 [NotebookApp | INFO] Saving file at /calvinball.ipynb
+[NotebookApp | INFO] Saving file at /calvinball.ipynb
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f5e3015f-7895-40ec-ba25-dd6ed7c31b26
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://between-extreme:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://between-extreme:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 79ec31b8-cbbd-40cd-9401-115bea20cb43
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 79ec31b8-cbbd-40cd-9401-115bea20cb43) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 79ec31b8-cbbd-40cd-9401-115bea20cb43:737ce14cb6f94b3583166970004e96d7
